@@ -1,6 +1,6 @@
 # NodeExpressSequelize_Test
 
-#Dependencies
+# Dependencies
 ***npm install***
 ***npm install --save express body-parser morgan***
 ***npm install -D nodemon***
